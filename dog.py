@@ -82,6 +82,6 @@ fd(size)
 pu()
 
 goto(10,-200)
-write("Hey",align="left",font=("华文行楷",30,"bold"))
+write("Hey",align="left",font=("None",25,"bold"))
 goto(-10,-250)
-write("How do you do?",align="right",font=("华文行楷",30,"bold"))
+write("How do you do?",align="right",font=("None",30,"bold"))
