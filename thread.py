@@ -7,4 +7,4 @@ class MyThread(threading.Thread):
     def run(self):
         for i in range(0, 5):
             print(i)
-            time.sleep(1)
+            time.sleep(0.5)
